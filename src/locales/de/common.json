@@ -1,0 +1,98 @@
+{
+  "app": {
+    "name": "sola Wetter"
+  },
+  "language": {
+    "en": "EN",
+    "de": "DE"
+  },
+  "header": {
+    "logoAlt": "sola Logo"
+  },
+  "search": {
+    "openButton": "Städte suchen...",
+    "placeholder": "Städte suchen...",
+    "noCitiesFound": "Keine Städte gefunden.",
+    "favorites": "Favoriten",
+    "recentSearches": "Letzte Suchen",
+    "suggestions": "Vorschläge",
+    "clear": "Löschen"
+  },
+  "dashboard": {
+    "myLocation": "Mein Standort",
+    "yourLocation": "dein Standort",
+    "locationErrorTitle": "Standortfehler",
+    "locationRequiredTitle": "Standort erforderlich",
+    "locationRequiredMessage": "Bitte Standortzugriff aktivieren, um dein lokales Wetter zu sehen.",
+    "enableLocation": "Standort aktivieren",
+    "errorTitle": "Fehler",
+    "fetchFailed": "Wetterdaten konnten nicht geladen werden. Bitte erneut versuchen.",
+    "retry": "Erneut versuchen"
+  },
+  "city": {
+    "unknown": "Unbekannte Stadt",
+    "failedToLoad": "Wetterdaten konnten nicht geladen werden. Bitte erneut versuchen.",
+    "unavailableTitle": "Wetterdaten nicht verfügbar | {{app}}",
+    "unavailableDesc": "Wetterinformationen sind vorübergehend nicht verfügbar. Bitte später erneut versuchen."
+  },
+  "details": {
+    "title": "Wetterdetails",
+    "sunrise": "Sonnenaufgang",
+    "sunset": "Sonnenuntergang",
+    "windDirection": "Windrichtung",
+    "pressure": "Luftdruck"
+  },
+  "forecast": {
+    "title": "5-Tage-Vorhersage"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "subtitle": "Ups! Du bist wohl in eine wolkige Gegend geraten.",
+    "redirecting": "Wettervorhersage: Weiterleitung zur Startseite in {{count}} Sekunden...",
+    "goBack": "Zurück",
+    "goHome": "Startseite",
+    "seoTitle": "Seite nicht gefunden | {{app}}",
+    "seoDesc": "Die Seite wurde nicht gefunden. Du wirst in Kürze zur Startseite weitergeleitet."
+  },
+"footer": {
+  "tagline": "Full-Stack MERN Entwickler",
+  "rights": "© {{year}} {{name}}. Alle Rechte vorbehalten.",
+  "contact": "Kontakt",
+  "email": "E-Mail"
+
+
+  },
+  "seo": {
+    "dashboardTitle": "Wettervorhersage für {{city}} | {{app}}",
+    "dashboardDescWithData": "Aktuelles Wetter in {{city}}: {{temp}}°C, {{desc}}. Echtzeit-Updates, stündliche Vorhersage und mehr auf {{app}}.",
+    "dashboardDescNoData": "Echtzeit-Wetterupdates, genaue Vorhersagen und detaillierte Wetterinfos weltweit auf {{app}}.",
+    "cityTitle": "Wettervorhersage {{city}} | {{app}}",
+    "cityDescWithData": "Aktuelles Wetter in {{city}}: {{temp}}°C, {{desc}}. Detaillierte Vorhersage, stündliche Temperaturen und Wetterbedingungen auf {{app}}.",
+    "cityDescNoData": "Detaillierte Wettervorhersage für {{city}}. Echtzeit-Updates, stündliche Temperaturen und Wetterbedingungen auf {{app }}."
+  },
+  
+  "current": {
+    "feelsLike": "Gefühlt {{temp}}",
+    "humidity": "Luftfeuchtigkeit",
+    "windSpeed": "Windgeschwindigkeit"
+  },
+  "hourly": {
+    "title": "Temperatur heute",
+    "tooltip": {
+      "temperature": "Temperatur",
+      "feelsLike": "Gefühlt"
+    }
+  },
+  "favorites": {
+    "title": "Favoriten",
+    "removed": "{{name}} aus Favoriten entfernt"
+  },
+  "theme": {
+    "toggle": "Theme umschalten"
+  },
+  "units": {
+    "ms": "m/s"
+  }
+}
+
+
